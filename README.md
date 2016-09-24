@@ -25,3 +25,7 @@
 * [Use CSS media queries for responsiveness](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)  
 * [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)  
 * [W3 School's article on responsiveness](http://www.w3schools.com/css/css_rwd_viewport.asp)
+
+### Day 14: September 24, 2016 | Matt Corby tribute page responsiveness 2
+
+* Continued work on responsiveness for my tribute page: hide video on small screens, move title to avoid hiding Matt's face on small screens, created a smaller background image for mobile (loaded via media query)
