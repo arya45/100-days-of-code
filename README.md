@@ -29,3 +29,8 @@
 ### Day 14: September 24, 2016 | Matt Corby tribute page responsiveness 2
 
 * Continued work on responsiveness for my tribute page: hide video on small screens, move title to avoid hiding Matt's face on small screens, created a smaller background image for mobile (loaded via media query)
+
+### Day 15: September 25, 2016 | Matt Corby tribute page responsiveness 3 + Weather app
+
+* Looked for a fix to problem of the beackground image being to zoomed in on mobile devices. Setting the html height to 100% seems to do the trick. It now works on my phone (even though the URL bar of the browser seems to be counted in the 100%...) and I got feeback that it seems fine on Windows Phone.
+* Started to think about the Weather App (FreeCodeCamp challenge) and the OpenWeatherData API. This is going to be challenging but fun: first real app I am going to build!
