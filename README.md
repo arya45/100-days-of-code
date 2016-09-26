@@ -34,3 +34,7 @@
 
 * Looked for a fix to problem of the beackground image being to zoomed in on mobile devices. Setting the html height to 100% seems to do the trick. It now works on my phone (even though the URL bar of the browser seems to be counted in the 100%...) and I got feeback that it seems fine on Windows Phone.
 * Started to think about the Weather App (FreeCodeCamp challenge) and the OpenWeatherData API. This is going to be challenging but fun: first real app I am going to build!
+
+### Day 16: September 26, 2016 | A slice of Python
+
+* Long day at work and could not get myself to work on the Weather App but I completed a few Python exercises on CodeSchool. Bookmarked some other interesting-looking courses
