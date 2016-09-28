@@ -38,3 +38,8 @@
 ### Day 16: September 26, 2016 | A slice of Python
 
 * Long day at work and could not get myself to work on the Weather App but I completed a few Python exercises on CodeSchool. Bookmarked some other interesting-looking courses
+
+### Day 17: September 28, 2016 | Python: file handling and exceptions
+
+* Worked on some Python challenges with CodeSchool, learning about file handling and dealing with errors and exceptions
+* Discovered coolors.co
