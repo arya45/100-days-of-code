@@ -43,3 +43,14 @@
 
 * Worked on some Python challenges with CodeSchool, learning about file handling and dealing with errors and exceptions
 * Discovered coolors.co
+
+**Links:** [Coolors.co](http://coolors.co/)
+
+### Day 18: September 29, 2016 | em, rem
+
+* Read about scalable units (em, rem) and responsive typography. Links below
+* Some fixing on my quotes machine: the responsiveness is not great on mobile (absolute positioning is banned!), used my new knowledge of media queries to sort this in the coming days
+
+**Links:** 
+* [Comprehensive Guide: When to Use Em vs. Rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+* [Everything I know about Responsive Web Typography](https://zellwk.com/blog/responsive-typography/)
