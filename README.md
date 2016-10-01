@@ -49,8 +49,15 @@
 ### Day 18: September 29, 2016 | em, rem
 
 * Read about scalable units (em, rem) and responsive typography. Links below
-* Some fixing on my quotes machine: the responsiveness is not great on mobile (absolute positioning is banned!), used my new knowledge of media queries to sort this in the coming days
+* Some fixing on my quotes machine: the responsiveness is not great on mobile (absolute positioning is banned!), will use my new knowledge of media queries to sort this in the coming days
 
 **Links:** 
 * [Comprehensive Guide: When to Use Em vs. Rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 * [Everything I know about Responsive Web Typography](https://zellwk.com/blog/responsive-typography/)
+
+### Day 19: October 1, 2016 | Quotes Machine responsiveness
+
+* Further fixing of my Quotes Machine ("Food for Thought"): restructured the JavaScript code to get the height of the browser window and recalculate if the window gets resized (for example change from portrait to landscape), adequately cleaned up the CSS. Next task: dealing with the buttons getting over the quotes (because of absolute positioning)
+* Making an effort (it pays) to use em values instead of pixels for padding and margins so that if someone changes the default font-size of their browser the content is displayed accordingly.
+
+**Links:** [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
