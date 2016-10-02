@@ -61,3 +61,8 @@
 * Making an effort (it pays) to use em values instead of pixels for padding and margins so that if someone changes the default font-size of their browser the content is displayed accordingly.
 
 **Links:** [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
+
+### Day 20: October 2, 2016 | Python: bye for now
+
+* Finished the Python challenges on CodeSchool. I intend to concentrate more on the front-end languages in the months to come so I'll park that for now (and probably forget a bit...)
+* I intend to get back to Weather App in the following days/weeks
