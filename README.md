@@ -66,3 +66,8 @@
 
 * Finished the Python challenges on CodeSchool. I intend to concentrate more on the front-end languages in the months to come so I'll park that for now (and probably forget a bit...)
 * I intend to get back to Weather App in the following days/weeks
+
+### Day 21-24: October 8, 2016 | Weather App: work in progress
+
+* Finally got to work on the weather app. Had a weird bug where I could not get the data, but now working fine. It is actually quite easy to use APIs to my surprise; the project is demystifying it for me.
+* The structure is in place and I know what I want to display so now it is only a matter of getting things done!
