@@ -71,3 +71,9 @@
 
 * Finally got to work on the weather app. Had a weird bug where I could not get the data, but now working fine. It is actually quite easy to use APIs to my surprise; the project is demystifying it for me.
 * The structure is in place and I know what I want to display so now it is only a matter of getting things done!
+
+### Day 25-26: October 9, 2016 | Weather App
+
+* Most of the main elements coming from the API are there. I restructured the HTML to put the search bar at the bottom to link the title with the weather results.
+* Started adding the units toggle but it needs more work and positioning properly.
+* Signed up on StackOverflow because I find so many useful answers there every time I code, so I need to save them to quickly get back to them if needed!
