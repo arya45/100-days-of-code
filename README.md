@@ -78,7 +78,7 @@
 * Started adding the units toggle but it needs more work and positioning properly.
 * Signed up on StackOverflow because I find so many useful answers there every time I code, so I need to save them to quickly get back to them if needed!
 
-### Day 27-29: October 15, 2016 | Weather App
+### Day 27-28: October 15, 2016 | Weather App
 
 * Worked on unit switch and researched best way to submit location also via the Enter key.
 * Work on positioning to be done, as well as background image, time stamp and finding a better name for this app!
