@@ -82,3 +82,9 @@
 
 * Worked on unit switch and researched best way to submit location also via the Enter key.
 * Work on positioning to be done, as well as background image, time stamp and finding a better name for this app!
+
+### Day 29-32: October 16, 2016 | JavaScript Best Practices
+
+* Learning lots of new and useful JavaScript concepts via CodeSchool's JavaScript Best Practices course. What I like is that it is not trying to teach completely new technical things but rather how to optimise my use of JavaScript (performance, amount of code written, etc.). I had never heard of the fall-through concept of the switch block. It can be really powerful in some situations.
+
+**Links:** [CodeSchool - JavaScript Best Practices course](https://www.codeschool.com/courses/javascript-best-practices)
