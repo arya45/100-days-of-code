@@ -88,3 +88,7 @@
 * Learning lots of new and useful JavaScript concepts via CodeSchool's JavaScript Best Practices course. What I like is that it is not trying to teach completely new technical things but rather how to optimise my use of JavaScript (performance, amount of code written, etc.). I had never heard of the fall-through concept of the switch block. It can be really powerful in some situations.
 
 **Links:** [CodeSchool - JavaScript Best Practices course](https://www.codeschool.com/courses/javascript-best-practices)
+
+### Day 33: October 18, 2016 | JavaScript Best Practices
+
+* Learned more about performance optimisation in JavaScript. So interesting to realise how usual code habits impact performance. I will need to practice these by improving my Quotes Machine, which takes a bit too much time to load at the moment.
