@@ -92,3 +92,10 @@
 ### Day 33: October 18, 2016 | JavaScript Best Practices
 
 * Learned more about performance optimisation in JavaScript. So interesting to realise how usual code habits impact performance. I will need to practice these by improving my Quotes Machine, which takes a bit too much time to load at the moment.
+
+### Day 34: October 19, 2016 | Weather App and JS optimisation
+
+* Worked on the unit switch which enables users to switch between Celsius and Farenheit. Now operational and enables live switching (switch while the weather is already displayed).
+* Practiced what I learned about optimisation on the Quotes Machine project but at this scale it is hard to notice any major change. This might be more useful to apply on the Weather App because of the HTTP requests, the numerous DOM changes etc. even though, again, it is not a big application.
+
+**Links:** [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
