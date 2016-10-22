@@ -93,9 +93,17 @@
 
 * Learned more about performance optimisation in JavaScript. So interesting to realise how usual code habits impact performance. I will need to practice these by improving my Quotes Machine, which takes a bit too much time to load at the moment.
 
-### Day 34: October 19, 2016 | Weather App and JS optimisation
+### Day 34: October 20, 2016 | Weather App and JS optimisation
 
 * Worked on the unit switch which enables users to switch between Celsius and Farenheit. Now operational and enables live switching (switch while the weather is already displayed).
 * Practiced what I learned about optimisation on the Quotes Machine project but at this scale it is hard to notice any major change. This might be more useful to apply on the Weather App because of the HTTP requests, the numerous DOM changes etc. even though, again, it is not a big application.
 
 **Links:** [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+
+### Day 35: October 22, 2016 | Weather App
+
+* Rewrote part of the code to remove unnecessary API request for unit switch (I can just convert units myself in JS...)
+* Started working on showing a weather icon, corresponding to the current weather and day/night. It is harder than I thought: there is an issue where the sunrise and sunset Unix times that I get from Open Weather Map are related to the current day in my time zone, not in the time zone of the city. So for example looking up Sydney's sunrise/sunset times does not always give the right info. So not comitting any code today.
+* I am going to use Erik Flowers's icons, they look great.
+
+**Links:** [Erik Flowers's Weather Icons](https://erikflowers.github.io/weather-icons/)
