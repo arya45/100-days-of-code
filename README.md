@@ -107,3 +107,8 @@
 * I am going to use Erik Flowers's icons, they look great.
 
 **Links:** [Erik Flowers's Weather Icons](https://erikflowers.github.io/weather-icons/)
+
+### Day 36: October 23, 2016 | Weather App
+
+* Still stuck with the issue of eroneous sunrise / sunset data... and can't find a fiw on the internet. I need to find another way to choose day/night isons then. 
+* Had a look at other people's projects and relised that I am supposed to show local weather via geolocalisation, but as someone who doesn't like websites being able to localise me I'll keep with my initial idea to enable users to type in their location or anywhere else.
