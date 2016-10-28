@@ -112,3 +112,8 @@
 
 * Still stuck with the issue of eroneous sunrise / sunset data... and can't find a fiw on the internet. I need to find another way to choose day/night isons then. 
 * Had a look at other people's projects and relised that I am supposed to show local weather via geolocalisation, but as someone who doesn't like websites being able to localise me I'll keep with my initial idea to enable users to type in their location or anywhere else.
+
+### Day 37: October 28, 2016 | Error handling in JS
+
+* Continued with CodeSchool's JavaScript Best Practice course: learned error handling, comparison sign, instanceof
+* Request sent to Open Weather Map about the bug I found, I hope that it will be good news...
