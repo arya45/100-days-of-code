@@ -117,3 +117,8 @@
 
 * Continued with CodeSchool's JavaScript Best Practice course: learned error handling, comparison sign, instanceof
 * Request sent to Open Weather Map about the bug I found, I hope that it will be good news...
+
+### Day 38: October 29, 2016 | Weather App
+
+* Worked on the display of a weather icon depending of the weather id returned by the API. I am using [Erik Flowers' Weather Icons](https://github.com/erikflowers/weather-icons) which are brilliant. The API mapping enabled me to avoid having to assign an icon to each weather id.
+* Depending on OpenWeatherMap's answer, the next step will be to display different icons for day and night time.
