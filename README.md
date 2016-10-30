@@ -122,3 +122,8 @@
 
 * Worked on the display of a weather icon depending of the weather id returned by the API. I am using [Erik Flowers' Weather Icons](https://github.com/erikflowers/weather-icons) which are brilliant. The API mapping enabled me to avoid having to assign an icon to each weather id.
 * Depending on OpenWeatherMap's answer, the next step will be to display different icons for day and night time.
+
+### Day 39: October 30, 2016 | Weather App
+
+* More work on Weather App, nearly finished and it is responsive! Just waiting to see how to solve sunrise/sunset issue and I am done.
+* I can feel the progress I have made on CSS, using em and rems avoiding unnessary CSS and avoiding to use JS to resolve my eternal issue with getting the footer to stick to the bottom of the page.
