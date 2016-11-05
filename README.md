@@ -127,3 +127,9 @@
 
 * More work on Weather App, nearly finished and it is responsive! Just waiting to see how to solve sunrise/sunset issue and I am done.
 * I can feel the progress I have made on CSS, using em and rems avoiding unnessary CSS and avoiding to use JS to resolve my eternal issue with getting the footer to stick to the bottom of the page.
+
+### Day 40: November 5, 2016 | Sass, SCSS, Free Code Camp's Gitter
+
+* I have tried to find a solution to the Open Weather Map API issue, can't find much help...
+* Went to the Free Code Camp Gitter page, it is a nice feeling to be able to help other people with stuff that I once struggled with, or even new challenges that I never came across
+* Read about Sass and SCSS. I need to read more to start using the SCSS syntax
