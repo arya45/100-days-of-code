@@ -1,5 +1,12 @@
 # 100DaysOfCode progress log
 
+### Day 1: January 3rd, 2017 | Reboot
+
+* OK new year, new attempt at the challenge!
+* Started Wikipedia Viewer from the Free Code Camp projects. It took me a while to get my head around the way the API works; not much coding done.
+
+#### Below is the log of my first go at the challenge:
+
 ### Day 11: September 19, 2016 | Back to basics
 
 * Cloned this log from [Kallaway/100-days-of-code](https://github.com/Kallaway/100-days-of-code).
