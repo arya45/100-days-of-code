@@ -1,5 +1,10 @@
 # 100DaysOfCode progress log
 
+### Day 2: January 4, 2017 | Wikipedia Viewer
+
+* Still getting my head around the Wikipedia API: I know now that I need to use the generator parameter to do my query, using the search term entered by the user as a value, to get a list of corresponding results.
+* Been testing it on a simple example to return one result, but I am getting an request error due to the lack of user agent header in my call. Started researching how to do that; it seems that I need to use the full AJAX GET declaration instead of $.getJSON() to be able to add the API-user-agent parameter to the GET declaration.
+
 ### Day 1: January 3rd, 2017 | Reboot
 
 * OK new year, new attempt at the challenge!
