@@ -1,5 +1,12 @@
 # 100DaysOfCode progress log
 
+### Day 3: January 5, 2017 | Wikipedia Viewer
+
+* Finally understood what callback functions and jsonp are. Tried to use that (adding &callback? at the end of the URL) and it solved the error I had, without getting into setting API-user-agent.
+* Now need to understand what parameters I need to use in my call to the Wikipedia API, reading the documentation hasn't really helped...
+
+**Links:** [jQuery’s JSONP Explained with Examples](https://www.sitepoint.com/jsonp-examples/)
+
 ### Day 2: January 4, 2017 | Wikipedia Viewer
 
 * Still getting my head around the Wikipedia API: I know now that I need to use the generator parameter to do my query, using the search term entered by the user as a value, to get a list of corresponding results.
