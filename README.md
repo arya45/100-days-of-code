@@ -1,5 +1,10 @@
 # 100DaysOfCode progress log
 
+### Day 4: January 6, 2017 | Wikipedia Viewer: useful call
+
+* Finally! I found the right parameters for the API call. I'll use action=query & list=search & srsearch=*searchTopic* & srinfo=snippet. This gives me a simple list of 10 pages (by default) which contain the *searchTopic* in their title or content, with their title and a snippet of the text content. Just what I need.
+* Next is building the HTML and populating the DOM with the results.
+
 ### Day 3: January 5, 2017 | Wikipedia Viewer
 
 * Finally understood what callback functions and jsonp are. Tried to use that (adding &callback? at the end of the URL) and it solved the error I had, without getting into setting API-user-agent.
