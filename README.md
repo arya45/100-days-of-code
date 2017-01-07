@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 5: January 7, 2017 | Wikipedia Viewer: DOM mods via jQuery
+
+* Worked on getting the right info out of the API response and appending the DOM accordingly. Still a good amout of work to do!
+
 ### Day 4: January 6, 2017 | Wikipedia Viewer: useful call
 
 * Finally! I found the right parameters for the API call. I'll use action=query & list=search & srsearch=*searchTopic* & srinfo=snippet. This gives me a simple list of 10 pages (by default) which contain the *searchTopic* in their title or content, with their title and a snippet of the text content. Just what I need.
