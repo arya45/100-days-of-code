@@ -1,5 +1,11 @@
 # 100DaysOfCode progress log
 
+### Day 6: January 8, 2017 | Wikipedia Viewer: DOM mods via jQuery
+
+* Continued work on getting the right info out of the API response and appending the DOM accordingly.
+* Worked on HTML structure to add 10 search results.
+* Added links to the wiki pages.
+
 ### Day 5: January 7, 2017 | Wikipedia Viewer: DOM mods via jQuery
 
 * Worked on getting the right info out of the API response and appending the DOM accordingly. Still a good amout of work to do!
