@@ -1,5 +1,19 @@
 # 100DaysOfCode progress log
 
+### Day 8: January 10, 2017 | Wikipedia Viewer : styling
+
+* Changed how error message is dealt with in HTML
+* Styled results list, new page title font
+* Added "Surprise me !" button linking to random article
+* I am happy with the state of it ! Will publish on my website tomorrow.
+* Maybe for later: add autocomplete, append li's instead of having them in the HTML form the beginning?
+
+### Day 7: January 9, 2017 | Wikipedia Viewer // CodeUp meetup & local FreeCodeCamp group
+
+* Dealing with error message when no results are found.
+* Some CSS mods.
+* Went to CodeUp meet up to code, met FreeCodeCamp local group mentors. Got inspiration to add autocomplete to search bar from one of the mentors.
+
 ### Day 6: January 8, 2017 | Wikipedia Viewer: DOM mods via jQuery
 
 * Continued work on getting the right info out of the API response and appending the DOM accordingly.
