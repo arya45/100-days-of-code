@@ -1,5 +1,13 @@
 # 100DaysOfCode progress log
 
+### Day 9: January 11, 2017 | Wikipedia Viewer : final mods, published
+
+* Hide error message when going from no results to some results
+* Hid results list via CSS as initial value to avoid styling showing on empty li's
+* Published on my website
+
+**Links:** [Wikipedia Viewer](http://audreydogbeh.com/projects/wikipedia-viewer)
+
 ### Day 8: January 10, 2017 | Wikipedia Viewer : styling
 
 * Changed how error message is dealt with in HTML
