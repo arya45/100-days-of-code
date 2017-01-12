@@ -1,5 +1,12 @@
 # 100DaysOfCode progress log
 
+### Day 10: January 12, 2017 | WordPress (Complete Web Developer Course - Udemy)
+
+* Started the WordPress section of the course on Udemy
+* Intending to start a side hustle with my front-end development skills in 2017!
+
+**Links:** [The Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/)
+
 ### Day 9: January 11, 2017 | Wikipedia Viewer : final mods, published
 
 * Hide error message when going from no results to some results
