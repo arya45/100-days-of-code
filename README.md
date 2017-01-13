@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 11: January 13, 2017 | WordPress (Complete Web Developer Course - Udemy)
+
+* Learning about themes, customisation, Rob's favourite paying themes
+
 ### Day 10: January 12, 2017 | WordPress (Complete Web Developer Course - Udemy)
 
 * Started the WordPress section of the course on Udemy
