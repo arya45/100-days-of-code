@@ -1,5 +1,12 @@
 # 100DaysOfCode progress log
 
+### Day 12: January 14, 2017 | JavaScript30 Challenge #1
+
+* Downloaded the files to start working on the JavaScript30 challenge by Wes Bos
+* Started challenge 1, discovered and read about data attributes and the kbd tag
+
+**Links:** [#JavaScript30 website](https://javascript30.com/), the GitHub repo is [here](https://github.com/wesbos/JavaScript30)
+
 ### Day 11: January 13, 2017 | WordPress (Complete Web Developer Course - Udemy)
 
 * Learning about themes, customisation, Rob's favourite paying themes
