@@ -1,5 +1,13 @@
 # 100DaysOfCode progress log
 
+### Day 13: January 16, 2017 | JavaScript30 Challenge #1
+
+* Struggling with selecting by attribute... Syntax seems right but JS is not having it.
+* Managed to find a workaround, with more lines of code though.
+* Will try to understand what is wrong with my first idea because the code looks simpler than the workaround
+
+**Links:** [Window object vs document object](http://eligeske.com/jquery/what-is-the-difference-between-document-and-window-objects-2/)
+
 ### Day 12: January 14, 2017 | JavaScript30 Challenge #1
 
 * Downloaded the files to start working on the JavaScript30 challenge by Wes Bos
