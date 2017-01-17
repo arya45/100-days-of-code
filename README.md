@@ -1,5 +1,11 @@
 # 100DaysOfCode progress log
 
+### Day 14: January 17, 2017 | JavaScript30 Challenge #1
+
+* Found what went wrong, it seems that the declaration needed to be done as two declarations. I still don't know why though...
+* Worked with event listening; it's hard to unlearn jQuery!
+* Finished the challenge
+
 ### Day 13: January 16, 2017 | JavaScript30 Challenge #1
 
 * Struggling with selecting by attribute... Syntax seems right but JS is not having it.
