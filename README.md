@@ -1,5 +1,10 @@
 # 100DaysOfCode progress log
 
+### Day 15: January 19, 2017 | JavaScript30 Challenge #3
+
+* CSS variables seem interesting and I had never heard of them before. This reminds me that I also want to have a look at SASS on of these days.
+* I also learned about `<input type="color"` and `<input type="range"` today, so I'll probably play around with these and CSS variables a bit tomorrow
+
 ### Day 14: January 17, 2017 | JavaScript30 Challenge #1
 
 * Found what went wrong, it seems that the declaration needed to be done as two declarations. I still don't know why though...
