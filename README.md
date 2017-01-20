@@ -1,5 +1,11 @@
 # 100DaysOfCode progress log
 
+### Day 16: January 20, 2017 | Tweaks to portfolio page
+
+* Made it so that the projects open in a new tab when clicked
+* Removed FCC icon from contacts
+* Had a look around the internet for inspiration to improve my portfolio and make it more personnal and unique
+
 ### Day 15: January 19, 2017 | JavaScript30 Challenge #3
 
 * CSS variables seem interesting and I had never heard of them before. This reminds me that I also want to have a look at SASS on of these days.
