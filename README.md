@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 17: January 23, 2017 | JavaScript30 Challenge #2
+
+* Working on JS + CSS clock; made the hour hand adjust with time. Next step will be doing the same for the other hands and make it dynamic.
+
 ### Day 16: January 20, 2017 | Tweaks to portfolio page
 
 * Made it so that the projects open in a new tab when clicked
