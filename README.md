@@ -1,5 +1,10 @@
 # 100DaysOfCode progress log
 
+### Day 18: January 24, 2017 | JavaScript30 Challenge #2
+
+* Finished the challenge! Again I learned quite a good deal: setInterval function, refresher on Date objects, CSS transition-timing-function and cube-bezier.
+* Added a bit of code to temporarily disable (and reactivate) the transition effect when the second hand gets to 60 seconds to avoid weird jump.
+
 ### Day 17: January 23, 2017 | JavaScript30 Challenge #2
 
 * Working on JS + CSS clock; made the hour hand adjust with time. Next step will be doing the same for the other hands and make it dynamic.
