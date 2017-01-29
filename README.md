@@ -6,6 +6,10 @@
 * I had already seen the video but had not played around with the code myself. It's a really cool aspect of CSS.
 * Read more about event listeners `element.addEventListener("change", function)` vs event handlers (inline in HTML) `<div onchange="function">`
 
+**Links:** 
+* [For...of (and difference with for...in)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+* [NodeList definition](https://developer.mozilla.org/en/docs/Web/API/NodeList)
+
 ### Day 18: January 24, 2017 | JavaScript30 Challenge #2 JS + CSS Clock
 
 * Finished the challenge! Again I learned quite a good deal: setInterval function, refresher on Date objects, CSS transition-timing-function and cube-bezier.
