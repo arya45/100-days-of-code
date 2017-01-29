@@ -1,11 +1,17 @@
 # 100DaysOfCode progress log
 
-### Day 18: January 24, 2017 | JavaScript30 Challenge #2
+
+### Day 19: January 29, 2017 | JavaScript30 Challenge #3 CSS Variables
+
+* I had already seen the video but had not played around with the code myself. It's a really cool aspect of CSS.
+* Read more about event listeners `element.addEventListener("change", function)` vs event handlers (inline in HTML) `<div onchange="function">`
+
+### Day 18: January 24, 2017 | JavaScript30 Challenge #2 JS + CSS Clock
 
 * Finished the challenge! Again I learned quite a good deal: setInterval function, refresher on Date objects, CSS transition-timing-function and cube-bezier.
 * Added a bit of code to temporarily disable (and reactivate) the transition effect when the second hand gets to 60 seconds to avoid weird jump.
 
-### Day 17: January 23, 2017 | JavaScript30 Challenge #2
+### Day 17: January 23, 2017 | JavaScript30 Challenge #2 JS + CSS Clock
 
 * Working on JS + CSS clock; made the hour hand adjust with time. Next step will be doing the same for the other hands and make it dynamic.
 
@@ -15,7 +21,7 @@
 * Removed FCC icon from contacts
 * Had a look around the internet for inspiration to improve my portfolio and make it more personnal and unique
 
-### Day 15: January 19, 2017 | JavaScript30 Challenge #3
+### Day 15: January 19, 2017 | JavaScript30 Challenge #3 CSS Variables
 
 * CSS variables seem interesting and I had never heard of them before. This reminds me that I also want to have a look at SASS on of these days.
 * I also learned about `<input type="color"` and `<input type="range"` today, so I'll probably play around with these and CSS variables a bit tomorrow
