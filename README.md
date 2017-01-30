@@ -1,5 +1,12 @@
 # 100DaysOfCode progress log
 
+### Day 20: January 30, 2017 | CSS bits and pieces
+
+* Played a bit with the Codepen in the links below. The effects are really cool and don't require much CSS thanks to the mix-blend-mode and filter properties. Definitely something to look at in more depth when I do the #dailycssimages challenge maybe. There is so much to learn about!
+
+**Links:** 
+* [Spotify Colorizer Effects Using CSS Blend Modes](https://codepen.io/vailjoy/pen/OWVwvO/)
+* [CSS Reference](http://cssreference.io/)
 
 ### Day 19: January 29, 2017 | JavaScript30 Challenge #3 CSS Variables
 
