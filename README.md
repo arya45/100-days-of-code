@@ -1,14 +1,17 @@
 # 100DaysOfCode progress log
 
+### Day 22: February 2, 2017 | JavaScript30 Challenge #4 Array Cardio Day 1
+
+* Continued challenge: I finally understand how to work with reduce() better now. At least reduce will come to mind when working with arrays.
+* Learned that querySelector (and querySelectorAll) can be applied to any element, not just document
+* Learned how to convert a NodeList into an array `var arr = Array.from(node_list)`
+* Learned about `string.prototype.includes()`, really useful
+
 ### Day 21: February 1, 2017 | JavaScript30 Challenge #4 Array Cardio Day 1
 
 * This was perfect because I know that I do not work the most efficiently on arrays.
 * Learned about `console.table()` which is well handy
 * Wes Bos uses the new ES6, I nee to get onto this! Arrow functions, const, let, template strings, etc.
-
-**Links:** 
-* [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
-* 
 
 ### Day 20: January 30, 2017 | CSS bits and pieces
 
