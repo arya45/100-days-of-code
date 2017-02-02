@@ -1,5 +1,15 @@
 # 100DaysOfCode progress log
 
+### Day 21: February 1, 2017 | JavaScript30 Challenge #4 Array Cardio Day 1
+
+* This was perfect because I know that I do not work the most efficiently on arrays.
+* Learned about `console.table()` which is well handy
+* Wes Bos uses the new ES6, I nee to get onto this! Arrow functions, const, let, template strings, etc.
+
+**Links:** 
+* [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+* 
+
 ### Day 20: January 30, 2017 | CSS bits and pieces
 
 * Played a bit with the Codepen in the links below. The effects are really cool and don't require much CSS thanks to the mix-blend-mode and filter properties. Definitely something to look at in more depth when I do the #dailycssimages challenge maybe. There is so much to learn about!
