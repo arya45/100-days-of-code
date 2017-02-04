@@ -1,5 +1,12 @@
 # 100DaysOfCode progress log
 
+### Day 23: February 3, 2017 | VS Code + photo for portfolio
+
+* Watching Wes Bos code in the #javaScript30 videos made me want to be more efficient when coding, so I had a proper look at the shorcuts in VS Code.
+* Also spent... 2 hours taking self portraits for my website (the pink taxi must go away!)
+
+**Link:** [VS Code Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
 ### Day 22: February 2, 2017 | JavaScript30 Challenge #4 Array Cardio Day 1
 
 * Continued challenge: I finally understand how to work with reduce() better now. At least reduce will come to mind when working with arrays.
