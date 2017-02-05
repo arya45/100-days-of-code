@@ -1,12 +1,17 @@
 # 100DaysOfCode progress log
 
+### Day 25: February 5, 2017 | #JavaScript30 challenge #5 Flex Panels
+
+* Good occasion to dip into Flexbox. Absolutely love it, it makes it so much faster to position items the way you want.
+* Found this handy Flexbox Playground on CodePen (link below)
+
+**Link:** [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/)
+
 ### Day 24: February 4, 2017 | Steps towards freelancing
 
 * Created a profile on freelancer.com
 * Add a look at the X ordpress theme, as recommended by Rob Percival (Udemy)
 * Found a website that needs serious revamping and updating and that I will contact tomorrow
-
-**Link:** [VS Code Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ### Day 23: February 3, 2017 | VS Code + photo for portfolio
 
