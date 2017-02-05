@@ -1,5 +1,13 @@
 # 100DaysOfCode progress log
 
+### Day 24: February 4, 2017 | Steps towards freelancing
+
+* Created a profile on freelancer.com
+* Add a look at the X ordpress theme, as recommended by Rob Percival (Udemy)
+* Found a website that needs serious revamping and updating and that I will contact tomorrow
+
+**Link:** [VS Code Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
 ### Day 23: February 3, 2017 | VS Code + photo for portfolio
 
 * Watching Wes Bos code in the #javaScript30 videos made me want to be more efficient when coding, so I had a proper look at the shorcuts in VS Code.
