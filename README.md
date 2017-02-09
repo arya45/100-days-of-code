@@ -1,5 +1,10 @@
 # 100DaysOfCode progress log
 
+### Day 26: February 9, 2017 | #JavaScript30 challenge #5 Flex Panels and #6 Type Ahead
+
+* Finished flex panels challenges, I can feel that I getting more and more comfortable with Vanilla JavaScript
+* Started Type Ahead challenge: learned about the fetch method for AJAX, will continue tomorrow
+
 ### Day 25: February 5, 2017 | #JavaScript30 challenge #5 Flex Panels
 
 * Good occasion to dip into Flexbox. Absolutely love it, it makes it so much faster to position items the way you want.
