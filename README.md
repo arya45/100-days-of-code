@@ -1,5 +1,12 @@
 # 100DaysOfCode progress log
 
+### Day 27: February 10, 2017 | #JavaScript30 challenge #6 Type Ahead
+
+* This was probably the hardest so far for me, lots of new things in vanilla JS: manipulating the DOM, RegExp constructor, fetch method. I overlooked the opportunity to use map() before Wes reminded me in hi video. I guess it'll take time before this becomes an obvious move when iterating over arrays.
+* Also took the opportunity to refresh my memory on regular expressions
+
+**Link:** [RegexOne](https://regexone.com/)
+
 ### Day 26: February 9, 2017 | #JavaScript30 challenge #5 Flex Panels and #6 Type Ahead
 
 * Finished flex panels challenges, I can feel that I getting more and more comfortable with Vanilla JavaScript
