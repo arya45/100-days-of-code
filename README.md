@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 28: February 12, 2017 | #JavaScript30 challenge #6 Type Ahead and #7 Array Cardio #2
+
+* The amount of new knowledge I gathered from the Type Ahead challenge is heavy! I will have to take that ES6 course that Wes Bos offers.
+
 ### Day 27: February 10, 2017 | #JavaScript30 challenge #6 Type Ahead
 
 * This was probably the hardest so far for me, lots of new things in vanilla JS: manipulating the DOM, RegExp constructor, fetch method. I overlooked the opportunity to use map() before Wes reminded me in hi video. I guess it'll take time before this becomes an obvious move when iterating over arrays.
