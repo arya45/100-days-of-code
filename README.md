@@ -1,5 +1,7 @@
 # 100DaysOfCode progress log
 
+### Day 29: February 14, 2017 | Work on portfolio
+
 ### Day 28: February 12, 2017 | #JavaScript30 challenge #6 Type Ahead and #7 Array Cardio #2
 
 * The amount of new knowledge I gathered from the Type Ahead challenge is heavy! I will have to take that ES6 course that Wes Bos offers.
