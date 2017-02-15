@@ -1,5 +1,7 @@
 # 100DaysOfCode progress log
 
+### Day 30: February 15, 2017 | Work on portfolio
+
 ### Day 29: February 14, 2017 | Work on portfolio
 
 ### Day 28: February 12, 2017 | #JavaScript30 challenge #6 Type Ahead and #7 Array Cardio #2
