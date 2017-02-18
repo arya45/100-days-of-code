@@ -1,5 +1,7 @@
 # 100DaysOfCode progress log
 
+### Day 31: February 18, 2017 | Work on portfolio
+
 ### Day 30: February 15, 2017 | Work on portfolio
 
 ### Day 29: February 14, 2017 | Work on portfolio
