@@ -1,5 +1,10 @@
 # 100DaysOfCode progress log
 
+### Day 32: February 19, 2017 | Work on portfolio
+
+* Read a bit about color schemes, how to choose complementary colours so I tuned dow my secondary colour a bit. It does look better, more my aesthetic.
+* I still need to modify the footer a bit. I decided against creating a full about me page for the time being, so I'll write a few lines in the footer.
+
 ### Day 31: February 18, 2017 | Work on portfolio
 
 ### Day 30: February 15, 2017 | Work on portfolio
