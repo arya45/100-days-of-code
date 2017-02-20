@@ -1,5 +1,15 @@
 # 100DaysOfCode progress log
 
+### Day 33: February 20, 2017 | Normalise.css and HTML5 Boilerplate
+
+Working on my portfolio these last few days, I have realised that I end up overriding a lot of Bootstrap's defaults. That added to the fact that I want to get my website responsive based on its content (and not fixed breakpoints as defined in Boostrap), I decided to ditch Bootstrap altogether for my website. I love Bootstrap but I feel that my CSS knowledge is now enough for me to tackle responsiveness on a small scale project without using it.
+
+I am going to keep Normalize.css (link below) and I might need a few lines of code from HTML5 Boilerplate, but the media queries will be content-based.
+
+**Links:**
+* [Normalize.css](https://necolas.github.io/normalize.css/) // Repository [here](https://github.com/necolas/normalize.css)
+* [HTML5 Boilerplate](https://html5boilerplate.com/) // Repository [here](https://github.com/h5bp/html5-boilerplate)
+
 ### Day 32: February 19, 2017 | Work on portfolio
 
 * Read a bit about color schemes, how to choose complementary colours so I tuned dow my secondary colour a bit. It does look better, more my aesthetic.
