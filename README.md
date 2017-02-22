@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 34: February 21, 2017 | About ditching Bootstrap........
+
+Ok, ditching Bootstrap altogether seems daft, because it avoid me redoing a lot of CSS from scratch. So I am going to keep what I need from the Bootstrap CSS file and use my own breakpoints. It would surely be a great exercise for me to do the CSS from scratch at least once, to know that I can do it but I am trying to get my portfolio online asap so that is not the right project for it.
+
 ### Day 33: February 20, 2017 | Normalise.css and HTML5 Boilerplate
 
 Working on my portfolio these last few days, I have realised that I end up overriding a lot of Bootstrap's defaults. That added to the fact that I want to get my website responsive based on its content (and not fixed breakpoints as defined in Boostrap), I decided to ditch Bootstrap altogether for my website. I love Bootstrap but I feel that my CSS knowledge is now enough for me to tackle responsiveness on a small scale project without using it.
