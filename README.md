@@ -1,5 +1,7 @@
 # 100DaysOfCode progress log
 
+### Day 35: February 2, 2017 | Work on portfolio
+
 ### Day 34: February 21, 2017 | About ditching Bootstrap........
 
 Ok, ditching Bootstrap altogether seems daft, because it avoid me redoing a lot of CSS from scratch. So I am going to keep what I need from the Bootstrap CSS file and use my own breakpoints. It would surely be a great exercise for me to do the CSS from scratch at least once, to know that I can do it but I am trying to get my portfolio online asap so that is not the right project for it.
