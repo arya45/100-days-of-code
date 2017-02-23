@@ -1,6 +1,8 @@
 # 100DaysOfCode progress log
 
-### Day 35: February 2, 2017 | Work on portfolio
+### Day 36: February 23, 2017 | Work on portfolio
+
+### Day 35: February 22, 2017 | Work on portfolio
 
 ### Day 34: February 21, 2017 | About ditching Bootstrap........
 
