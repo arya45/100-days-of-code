@@ -1,5 +1,7 @@
 # 100DaysOfCode progress log
 
+### Day 38: February 25, 2017 | Work on portfolio
+
 ### Day 37: February 24, 2017 | Work on portfolio
 
 ### Day 36: February 23, 2017 | Work on portfolio
