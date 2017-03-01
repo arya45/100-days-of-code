@@ -1,5 +1,7 @@
 # 100DaysOfCode progress log
 
+### Day 40: March 1, 2017 | Work on portfolio
+
 ### Day 39: February 26, 2017 | Work on portfolio
 
 * changed profile picture to an actual picture of me, plus a few CSS adjustments
