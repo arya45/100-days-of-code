@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 41: March 4, 2017 | Work on portfolio
+
+Do and undo sums it all! Decided not to put my picture upfront but rather in an about me section further down the page. I am now working to do something a bit creative with the greeting text and the rest of the intro.
+
 ### Day 40: March 1, 2017 | Work on portfolio
 
 ### Day 39: February 26, 2017 | Work on portfolio
