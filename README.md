@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 43: March 8, 2017 | Work on portfolio
+
+Playing with CSS thanks to Codrops. Put a nice effect on my nav links. I will keep adding small effects like that to make the overall page less static.
+
 ### Day 42: March 6, 2017 | Work on portfolio
 
 ### Day 41: March 4, 2017 | Work on portfolio
