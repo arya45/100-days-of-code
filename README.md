@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 44: March 9, 2017 | Work on portfolio
+
+Changed the effect happening when someone hovers on my picture to replce it with another one, instead of contact links.
+
 ### Day 43: March 8, 2017 | Work on portfolio
 
 Playing with CSS thanks to Codrops. Put a nice effect on my nav links. I will keep adding small effects like that to make the overall page less static.
