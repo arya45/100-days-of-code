@@ -1,5 +1,11 @@
 # 100DaysOfCode progress log
 
+### Day 4: April 4, 2017 | Started learning es6
+
+It had been on my list for a while, I bought Wes Bos's es6 course. I like that the videos are short and to the point.
+
+**Link:** [es6 for everyone](http://es6.io)
+
 ### Day 3: April 3, 2017 | #JavaScript30 challenge 9: Dev Tools tricks
 
 As always with Wes Bos, I learned a few cool stuff to do in the console. To be honest I should really try and understand how to use the Dev Tools for debugging, with breakpoints and all that. This is on my ever-growing list of things to learn.
