@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 5: April 6, 2017 | #JavaScript30 challenge 8: HTML5 canvas
+
+Really cool, I'd be interested to see what people have made with it. And I should also dive into SVG... maybe?
+
 ### Day 4: April 4, 2017 | Started learning es6
 
 It had been on my list for a while, I bought Wes Bos's es6 course. I like that the videos are short and to the point.
