@@ -1,10 +1,14 @@
 # 100DaysOfCode progress log
 
+### Day 6: April 7, 2017 | ES6
+
+More about let, const and var and some arguments on when to use which.
+
 ### Day 5: April 6, 2017 | #JavaScript30 challenge 8: HTML5 canvas
 
 Really cool, I'd be interested to see what people have made with it. And I should also dive into SVG... maybe?
 
-### Day 4: April 4, 2017 | Started learning es6
+### Day 4: April 4, 2017 | Started learning ES6
 
 It had been on my list for a while, I bought Wes Bos's es6 course. I like that the videos are short and to the point.
 
