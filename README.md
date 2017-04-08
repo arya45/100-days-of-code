@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 7: April 8, 2017 | ES6
+
+Learning about arrow functions, clearly a great way to make code a bit more compact!
+
 ### Day 6: April 7, 2017 | ES6
 
 More about let, const and var and some arguments on when to use which.
