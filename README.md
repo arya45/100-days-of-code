@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 8: April 9, 2017 | ES6
+
+More about arrow functions and when not to use them. I used the internet to complete the first exercise but I am glad to notice that what I was after was syntax things and not actually "how do I do that?"
+
 ### Day 7: April 8, 2017 | ES6
 
 Learning about arrow functions, clearly a great way to make code a bit more compact!
