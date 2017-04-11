@@ -1,5 +1,9 @@
 # 100DaysOfCode progress log
 
+### Day 9: April 11, 2017 | ES6
+
+Learning about template strings. I find them convenient to write strings taking in variables but Wes lost me with the HTML fragments and using functions. I will re-watched the videos with a less tired brain.
+
 ### Day 8: April 9, 2017 | ES6
 
 More about arrow functions and when not to use them. I used the internet to complete the first exercise but I am glad to notice that what I was after was syntax things and not actually "how do I do that?"
