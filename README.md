@@ -8,3 +8,8 @@ I am not planning on coding every day, I prefer having a relatively long block o
 ### Day 1: June 27, 2021
 
 Learned about `git fetch`, `git pull`, `git push`. Restarted my 100 days of code progress. Wrote some details about my housing market project, for planning.
+
+### Day 2: June 29, 2021
+
+Added my Udacity data analysis project exploring the incidence of missed medical appointments in a dataset of 110.000+ medical appointments in Brazil. The repo is called "noshow-brazil". I need to add a README in the coming days.
+
