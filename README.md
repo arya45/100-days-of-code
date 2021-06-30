@@ -13,3 +13,8 @@ Learned about `git fetch`, `git pull`, `git push`. Restarted my 100 days of code
 
 Added my Udacity data analysis project exploring the incidence of missed medical appointments in a dataset of 110.000+ medical appointments in Brazil. The repo is called "noshow-brazil". I need to add a README in the coming days.
 
+### Day 3: June 30, 2021
+
+Added my Udacity data analysis project exploring a dataset of Prosper consumer loans. In that project I looked at correlations between different factors and the incidence of defaulted loans.
+
+Commited the start of my personal project "apartment-sales", which will look into the housing market in Copenhagen.
