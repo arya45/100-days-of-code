@@ -18,3 +18,7 @@ Added my Udacity data analysis project exploring the incidence of missed medical
 Added my Udacity data analysis project exploring a dataset of Prosper consumer loans. In that project I looked at correlations between different factors and the incidence of defaulted loans.
 
 Commited the start of my personal project "apartment-sales", which will look into the housing market in Copenhagen.
+
+### Day 4: July 2, 2021
+
+Started learning about Power BI on Microsoft Learn.
