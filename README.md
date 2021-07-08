@@ -22,3 +22,13 @@ Commited the start of my personal project "apartment-sales", which will look int
 ### Day 4: July 2, 2021
 
 Started learning about Power BI on Microsoft Learn.
+
+### Day 5: July 8, 2021
+
+I have continued to learn about Power BI. I am pretty amazed at Power BI's web scraping capabilities! I have made a try with my apartment sales project and it found pretty much all relevant info by itself using the website I provided. I still used the custom table tool so there was a bit of manual work anyway but that's still impressive.
+I have quite a few challenges to deal with though:
+
+- How to retrieve information on other pages of the website?
+- How to clean the data in Power BI? Python would be more powerful here.
+- Find relevant geographical tools to identify neighborhoods in Copenhagen
+- ... and more
