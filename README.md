@@ -32,3 +32,12 @@ I have quite a few challenges to deal with though:
 - How to clean the data in Power BI? Python would be more powerful here.
 - Find relevant geographical tools to identify neighborhoods in Copenhagen
 - ... and more
+
+### Day 6: July 10, 2021
+
+I have decided to hold on to web scraping with Python and Pandas. I was not keen on using a mix of Power BI with Python scripts and the odd DAX expressions. I don't know DAX language and right now I feel like I'd rather practice newly acquired skills and move on with the project than start learning a new language. Plus if I am going to copy paste my Python code in Power BI, I might as well just code in Jupyter Notebook.
+So the next steps are:
+- finishing the cleaning of the dataframe
+- exploring the dataset with Python
+- saving the dataframe as CSV
+- explore some more with PowerBI visuals
